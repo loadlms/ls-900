@@ -1,7 +1,7 @@
 # Analise de Sentimentos e opiniões do Azure
 O recurso Análise de Sentimento da API de Análise de Texto fornece rótulos de sentimento (como "negativo", "neutro" e "positivo") e scores de confiança na sentença e nível de documento. Você também pode enviar solicitações de Mineração de Opinião usando o ponto de extremidade Análise de Sentimento, que fornece informações granulares sobre as opiniões relacionadas às palavras (como os atributos de produtos ou serviços) no texto. [Saiba mais](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/sentiment-opinion-mining/overview?tabs=prebuilt)
 
-    Siga com alguns prints de exemplo:
+Siga com alguns prints de exemplo:
 
 #### Visão Geral
 ![VISÃO GERAL](inputs/img/SOMT.PNG)
