@@ -1,0 +1,87 @@
+Texto de Exemplo:
+
+    I bought a size S and it fit perfectly. 
+    I found the zipper a little bit difficult to get up & down due to the side rushing. 
+    The color and material are beautiful in person. 
+    Amazingly comfortable!
+_______________________________________________
+Sentimento do documento:
+    Misturado
+ Confiança: 73.00%
+    POSITIVO
+    73.00%
+    NEUTRO
+    3.00%
+    NEGATIVO
+    25.00%
+--------------
+1ª Sentença
+
+I bought a size S and it fit perfectly.
+--------------
+Sentimento da sentença:
+    Positivo
+Confiança: 92.00%
+    POSITIVO
+    92.00%
+    NEUTRO
+    7.00%
+    NEGATIVO
+    1.00%
+_______________________________________________
+2ª Sentença
+
+I found the zipper a little bit difficult to get up & down due to the side rushing.
+---------------
+Sentimento da sentença:
+    Negativo
+Confiança: 0.00%
+    POSITIVO
+    0.00%
+    NEUTRO
+    2.00%
+    NEGATIVO
+    98.00%
+---------------
+Opinião:
+    Alvo: zíper
+    Avaliações:difícil (negativo, 100,00%)
+_______________________________________________
+3ª Sentença
+
+The color and material are beautiful in person. 
+-----------
+Sentimento da sentença:
+    Positivo
+Confiança: 99.00%
+    POSITIVO
+    99.00%
+    NEUTRO
+    1.00%
+    NEGATIVO
+    0.00%
+-----------
+Opinião:
+    Alvo: cor
+    Avaliações:bonito (positivo, 100,00%)
+-----------
+Opinião
+Alvo: material
+Avaliações:bonito (positivo, 100,00%)
+_______________________________________________
+4ª Sentença
+
+Amazingly comfortable!
+-----------
+Sentimento da sentença:
+    Positivo
+Confiança: 99.00%
+    POSITIVO
+    99.00%
+    NEUTRO
+    1.00%
+    NEGATIVO
+    0.00%
+_______________________________________________
+
+      PS: Prints com melhores exemplos no arquivo "README.md"
